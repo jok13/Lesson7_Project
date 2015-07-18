@@ -40,7 +40,7 @@ footer, header, hgroup, menu, nav, section {
 body {
    line-height: 1;
    max-width: 640px;
-   background: white;
+   background:cyan;
    margin: 0 auto;
    font-family: Arial, Helvetica, sans-serif; 
    -webkit-box-shadow: 10px 0px 10px rgba(50, 50, 50, 1),

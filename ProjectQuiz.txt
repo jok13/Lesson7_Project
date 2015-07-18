@@ -1,9 +1,9 @@
-*****************************************************
-Project Name:  Recipe Display Application
+************************************************************************
+Project Name:  Recipe Display Application  --  Project Quiz
 Author: 
 Date:   
 Participation Assignment (25 points)
-*****************************************************
+************************************************************************
 
 Instructions:  
 Answer the following questions for Lesson 7 Assignment
@@ -12,15 +12,14 @@ Answer the following questions for Lesson 7 Assignment
 Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
-
-
+You should ensure that the script element that links to the jQuery library comes first becuase it loads it into the HTML document and you have to have it loaded into your HTML document before  you can start to use it.
 
 
 ++++++++++++
 Question #2:  (5 points)
 ++++++++++++
 Why should you avoid including jQuery in a project if you don't need it?
-
+You should avoid using jQuery when unnecesary because jQuery uses backward compatible features and that is not best for all modern browsers. 
 
 
 
@@ -30,7 +29,7 @@ Why should you avoid including jQuery in a project if you don't need it?
 Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
-
+Every jQuery statement starts with a "$".
 
 
 
@@ -39,3 +38,10 @@ How does every jQuery statement start?
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+
+A content delivery network is a system of servers that deliver web content to a user based on the location of the user, the origin of the webpage and the server. 
+Some advantages are....
+1. CDN files are hosted on different domains
+2. CDN's offer higher avaliablity, lower network latency, lower packets.
+3. It allows you to link specific CSS files and jQuery Librarys including the latest modified version.
+4. It also provides usage reports. 
